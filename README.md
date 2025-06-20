@@ -33,13 +33,3 @@ This project aims to detect **fraudulent credit card transactions** using machin
 - Improves security while maintaining customer trust.
 
 ---
-
-## 📂 Folder Structure
-```bash
-credit-card-fraud-detection/
-├── data/                  # (Avoid uploading large datasets)
-├── notebooks/             # Jupyter Notebook with all code
-├── images/                # Charts/plots like confusion matrix, ROC
-├── README.md              # Project summary
-├── requirements.txt       # Python libraries used
-└── .gitignore
